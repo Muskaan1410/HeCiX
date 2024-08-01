@@ -10,4 +10,6 @@ with GPT-4, and increase its usability. HeCiX shows high performance
 during evaluation against a range of clinically relevant issues, proving
 this model to be promising for enhancing the effectiveness of clinical research. Thus, this approach provides a more holistic view of clinical trials
 and existing biological data.
+
+
 Refer  to the following paper for detailed working of HeCiX: https://arxiv.org/pdf/2407.14030
